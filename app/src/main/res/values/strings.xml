@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AplikasiBiodata</string>
+    <string name="a11_2017_10811">A11.2017.10811</string>
+    <string name="muhammad_taufiqur_rohman">Muhammad Taufiqur Rohman</string>
+    <string name="hello_my_name_is_muhammad_taufiqur_rohman_i_m_an_computer_science_student_who_interested_in_high_performance_computing_and_artificial_intelligence">Hello my name is Maulana Bagus Saputra I\'m an Computer Science Student who interested in High Performance Computing and Artificial Intelligence.</string>
+    <string name="deskripsi">Deskripsi :</string>
+    <string name="hobby">Hobby :</string>
+    <string name="alamat">Alamat :</string>
+    <string name="game">game</string>
+    <string name="doscom_gedung_d_lantai_1_universitas_dian_nuswantoro_jalan_nakula_i_no_1_15_semarang_jawa_tengah_indonesia_50131">DOSCOM, Gedung D Lantai 1 Universitas Dian Nuswantoro, Jl. Sadewa 2 No.8, Pendrikan Kidul, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah, Indonesia. 50131</string>
+    <string name="telepon">Telepon :</string>
+    <string name="_6282243842511">+6282243842511</string>
+    <string name="email">Email :</string>
+    <string name="pikt_1337_gmail_com">pikt.1337@gmail.com</string>
+    <string name="todo">TODO</string>
+</resources>
